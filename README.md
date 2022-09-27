@@ -10,7 +10,7 @@ Projeto construido No stage 02 Programa Explorer  da Rocketseat.
 
 
 
-👉🏼[Clique aqui para accessar](https://formulario-avancado.netlify.app/)
+👉🏼[Clique aqui para accessar](https://jose26362780.github.io/Desafio-stage-02--Formulario-avan-ado/)
 
 
 
